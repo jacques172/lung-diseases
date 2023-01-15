@@ -14,6 +14,8 @@
 
 - Use of transfer learning to retrain a `DenseNet` model for X-ray image classification.
 
+- Achieved an accuracy of 69.34 %
+
 - Evaluated the performance of our model using classifications metrics such as Accuracy, prevalence, specificity, sensitivity, TP, TN, FP, FN, PPV, NPV, AUC, Confidence Intervals, F1 score
 
 - Used the `ROC curve` to measure the goodness of fit of our model
@@ -23,3 +25,4 @@
 - Obtained the probability of each predicted label using calibration and generated a calibration plot with `Sckit-learn` to observe how our model's probabilities are aligned with the real probabilities
 
 - Used `Platt scaling` to improve our model's calibration
+
