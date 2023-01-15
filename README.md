@@ -1,6 +1,6 @@
 ## Convolutional neural network chest X-ray classification model to make diagnoses of lung disorders
 
-- Used 1000 frontal-view X-ray images from `ChestX-ray8` dataset identifying 14 different pathological conditions to train our model
+- Used 1000 frontal-view X-ray images from `ChestX-ray8` dataset (identifying 14 different pathological conditions) to train our model
 
 - Used `MathplotLib` and seaborn to visualize the data and numpy and pandas to manipulate it
 
